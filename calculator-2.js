@@ -1,6 +1,6 @@
 
 function aTest(){
-	var testForm = document.forms["test"];
+	var testForm = document.forms["calculator"];
 	
 	// calc income
 	var income = testForm["income"].value;
